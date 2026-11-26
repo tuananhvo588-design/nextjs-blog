@@ -8,7 +8,7 @@ import Date from '../components/date';
 
 export default function Home({ allPostsData }) {
   return (
-    <Layout home>>
+    <Layout home>
       <Head>
         <title>Anh Vo Duy's Website</title>
       </Head>
